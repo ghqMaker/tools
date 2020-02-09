@@ -1,0 +1,10 @@
+2020-02-09 19:34:30,736 - INFO - log
+2020-02-09 19:34:49,572 - INFO - log
+2020-02-09 19:49:07,918 - INFO - log
+2020-02-09 19:51:10,463 - INFO - log
+2020-02-09 20:19:10,220 - INFO - log
+2020-02-09 20:20:19,957 - INFO - log
+2020-02-09 20:25:05,003 - INFO - log
+2020-02-09 20:41:18,482 - INFO - 生成成功！！！路径：C:/Users/28965/Desktop/tools/picture
+2020-02-09 20:45:10,006 - INFO - 生成成功！！！路径：C:/Users/28965/Desktop/tools/picture
+2020-02-09 20:53:04,365 - INFO - success！！！path：C:\Users\28965\Desktop\tools\新建文件夹
