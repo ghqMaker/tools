@@ -1,0 +1,83 @@
+2020-02-09 21:55:58,414 - INFO - fail!，请填入“产品名称”
+2020-02-10 14:12:06,196 - INFO - fail!，“条形码”长度为10！
+2020-02-10 14:12:11,822 - INFO - fail!，+ txt +得大于“1”份
+2020-02-10 14:12:20,677 - INFO - fail!，“条形码”长度为10！
+2020-02-10 14:12:23,713 - INFO - fail!，请填入“数量”
+2020-02-10 14:16:25,124 - INFO - fail!，“条形码”只能输入：数字、大写字母
+2020-02-10 14:21:00,674 - INFO - fail!，请填入“长度”
+2020-02-10 14:21:06,082 - INFO - fail!，长度得大于“1”份
+2020-02-10 14:37:10,996 - INFO - fail!，长度必须为 > 1 
+2020-02-10 14:37:21,203 - INFO - fail!，长度必须为 > 1 
+2020-02-10 14:38:40,604 - INFO - fail!，长度必须为 > 1 
+2020-02-10 15:20:52,332 - INFO - fail!，数量必须为 > 1 整数
+2020-02-10 15:21:11,934 - INFO - fail!，数量必须为 > 1 整数
+2020-02-10 15:25:56,121 - INFO - fail!，数量必须为 > 1 整数
+2020-02-10 15:28:19,924 - INFO - success！！！path：D:\tools\pic
+2020-02-10 15:40:09,992 - INFO - fail!，请填入“数量”
+2020-02-10 15:42:40,436 - INFO - fail!，请填入“数量”
+2020-02-10 15:42:46,217 - INFO - fail!，数量必须为 > 1 整数
+2020-02-10 15:57:00,032 - INFO - success！！！path：D:\tools\pic
+2020-02-10 16:57:41,032 - INFO - fail!，“条形码”长度为10！
+2020-02-10 21:30:15,213 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:31:08,674 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:33:04,296 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:34:44,252 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:46:55,105 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:49:27,809 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:51:16,035 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:53:33,928 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:54:16,434 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:57:37,216 - INFO - success！！！path：D:\tools\pic
+2020-02-10 21:59:14,746 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:02:35,746 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:03:22,193 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:03:39,276 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:03:51,855 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:04:10,842 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:04:28,342 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:05:02,628 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:05:26,111 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:07:04,710 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:07:46,989 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:11:48,479 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:12:09,424 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:13:28,842 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:14:03,539 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:15:00,805 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:15:25,200 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:15:43,137 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:18:09,578 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:18:39,328 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:19:12,319 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:19:51,048 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:20:02,941 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:21:49,668 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:23:11,237 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:25:19,872 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:27:56,812 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:28:33,522 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:29:34,042 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:30:08,640 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:30:26,128 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:31:07,358 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:31:43,430 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:31:52,013 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:32:35,615 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:38:41,417 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:42:38,028 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:42:47,405 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:43:33,984 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:43:46,891 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:44:16,476 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:44:53,658 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:46:13,095 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:46:37,148 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:47:44,170 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:47:56,819 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:48:29,338 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:48:58,601 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:55:11,780 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:57:48,493 - INFO - success！！！path：D:\tools\pic
+2020-02-10 22:59:02,816 - INFO - success！！！path：D:\tools\pic
+2020-02-10 23:00:03,904 - INFO - success！！！path：D:\tools\pic
+2020-02-10 23:00:18,966 - INFO - success！！！path：D:\tools\pic

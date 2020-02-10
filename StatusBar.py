@@ -1,49 +1,39 @@
 # -*- coding: utf-8 -*-
 
 """
-In this example, we create a bit
-more complicated window layout using
-the QtGui.QGridLayout manager. 
+This program creates a menubar. The
+menubar has one menu with an exit action.
 """
 
 import sys
 from PyQt4 import QtGui
 
 
-class Example(QtGui.QWidget):
+class Example(QtGui.QMainWindow):
 
     def __init__(self):
         super(Example, self).__init__()
 
         self.initUI()
 
-    def initUI(self):
 
-        title = QtGui.QLabel('Title')
-        author = QtGui.QLabel('Author')
-        review = QtGui.QLabel('Review')
+    def initUI(self):               
 
-        titleEdit = QtGui.QLineEdit()
-        authorEdit = QtGui.QLineEdit()
-        reviewEdit = QtGui.QTextEdit()
+        exitAction = QtGui.QAction(QtGui.QIcon('exit.png'), '&Exit', self)        
+        exitAction.setShortcut('Ctrl+Q')
+        exitAction.setStatusTip('Exit application')
+        exitAction.triggered.connect(QtGui.qApp.quit)
 
-        grid = QtGui.QGridLayout()
-        grid.setSpacing(20)
+        self.statusBar()
 
-        grid.addWidget(title, 1, 0)
-        grid.addWidget(titleEdit, 1, 1)
+        menubar = self.menuBar()
+        fileMenu = menubar.addMenu('&File')
+        fileMenu.addAction(exitAction)
 
-        grid.addWidget(author, 2, 0)
-        grid.addWidget(authorEdit, 2, 1)
-
-        grid.addWidget(review, 3, 0)
-        grid.addWidget(reviewEdit, 3, 1)
-
-        self.setLayout(grid) 
-
-        self.setGeometry(300, 300, 350, 300)
-        self.setWindowTitle('Review')    
+        self.setGeometry(300, 300, 300, 200)
+        self.setWindowTitle('Menubar')    
         self.show()
+
 
 def main():
 
@@ -53,4 +43,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main() 

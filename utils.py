@@ -33,7 +33,7 @@ class Utils(object):
         if not os.path.exists(path):
             os.mkdir(path)
 
-    def is_number(self, s):
+    def is_number(self, s):#正整数
         try:  # 如果能运行float(s)语句，返回True（字符串s是浮点数）
             float(s)
             return True
